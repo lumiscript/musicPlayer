@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.thumbnail img {
+	width: 350px;
+}
+
+h2 {
+	font-size: 15px !important;
+	font-weight: 500 !important;
+
+}
+
+.btn-primary {
+	margin-right: 4%;
+}
