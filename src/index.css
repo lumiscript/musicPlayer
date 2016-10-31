@@ -17,3 +17,7 @@ h2 {
 .btn-primary {
 	margin-right: 4%;
 }
+
+.songName {
+	text-overflow: ellipsis;
+}
